@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-07_1436",
+    "name": "Site-07-07_1436-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -12,7 +12,8 @@
     "versionFirst": "4.10.5",
     "siteFonts": [],
     "uniqCompNum": 15,
-    "versionPublish": "4.10.5"
+    "versionPublish": "4.10.5",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
